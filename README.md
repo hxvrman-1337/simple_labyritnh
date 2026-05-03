@@ -112,7 +112,7 @@
 ### 1. Клонируй репозиторий
 
 ```bash
-git clone https://github.com/dibofailet-hash/simple_labyritnh
+git clone https://github.com/hxvrman-1337/simple_labyritnh
 cd labanov-game
 2. Установи зависимости
 Bash
